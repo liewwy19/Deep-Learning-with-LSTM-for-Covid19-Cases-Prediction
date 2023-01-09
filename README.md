@@ -32,6 +32,7 @@ Since this is a regression model, mean squared error (MSE) is choosen as the los
 ![](https://github.com/liewwy19/Deep-Learning-with-LSTM-for-Covid19-Cases-Prediction/blob/main/model_summary.png?raw=True)
 
 ![](https://miro.medium.com/max/720/1*7cMfenu76BZCzdKWCfBABA.webp)
+
 Image credit: Saul Dobilas on medium
 ## Analysis
 Overall, the model did able to predict the trend quite well. Deep learning predition model like this one does play an important role in the battle with COVID-19. 
