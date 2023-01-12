@@ -32,7 +32,6 @@ Since this is a regression model, mean squared error (MSE) is choosen as the los
 ![](https://github.com/liewwy19/Deep-Learning-with-LSTM-for-Covid19-Cases-Prediction/blob/main/model_summary.png?raw=True)
 
 ![](https://miro.medium.com/max/720/1*7cMfenu76BZCzdKWCfBABA.webp)
-
 Image credit: Saul Dobilas on medium
 ## Analysis
 Overall, the model did able to predict the trend quite well. Deep learning predition model like this one does play an important role in the battle with COVID-19. 
@@ -62,4 +61,5 @@ This project welcomes contributions and suggestions.
  - [GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.](https://github.com/MoH-Malaysia/covid19-public)
  - [LSTM Recurrent Neural Networks — How to Teach a Network to Remember the Past](https://towardsdatascience.com/lstm-recurrent-neural-networks-how-to-teach-a-network-to-remember-the-past-55e54c2ff22e)
  - [Gentle Introduction to the Adam Optimization Algorithm for Deep Learning](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
+ - [Selangor Human Resource Development Centre (SHRDC)](https://www.shrdc.org.my/)
 
